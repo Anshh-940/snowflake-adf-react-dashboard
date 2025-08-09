@@ -88,7 +88,8 @@ Showcases complex SQL joins and window functions in Snowflake.
 Fully cloud-based using Azure & Snowflake.
 
 📸 Sample Output
-(Add screenshots of your dashboard here)
+<img width="1536" height="1024" alt="ChatGPT Image Aug 9, 2025, 01_49_17 PM" src="https://github.com/user-attachments/assets/1fda5f3d-351e-4614-a9c7-ac2c8eb809c0" />
+
 
 🎯 Learning Objectives
 How to integrate Snowflake with Azure Data Factory.
