@@ -85,10 +85,7 @@ Displays sales trends using Chart.js.
 
 Showcases complex SQL joins and window functions in Snowflake.
 
-Fully cloud-based using Azure & Snowflake.
-
-📸 Sample Output
-<img width="1536" height="1024" alt="ChatGPT Image Aug 9, 2025, 01_49_17 PM" src="https://github.com/user-attachments/assets/1fda5f3d-351e-4614-a9c7-ac2c8eb809c0" />
+Fully cloud-based using Azure & Snowflake
 
 
 🎯 Learning Objectives
@@ -103,11 +100,4 @@ How to visualize large datasets in React.
 📝 License
 This project is open source under the MIT License.
 
-yaml
 
-
----
-
-If you want, I can also **generate you an architecture diagram image** instead of the Mermaid text, so it looks polished when viewed on GitHub.  
-
-Do you want me to make that diagram image?
