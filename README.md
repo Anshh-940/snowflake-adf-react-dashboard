@@ -41,7 +41,7 @@ project-root/
 
 
 ## 🖼️ Architecture Diagram
-```mermaid
+
 flowchart LR
     A[Azure SQL Database] -->|ADF Pipeline| B[Snowflake Warehouse]
     B -->|SQL Queries| C[Node.js Backend API]
